@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 const links = [
-    {id: 1, nameItem: "home", path: "/"},
+    {id: 1, nameItem: "home", path: "/framermotionpractice/"},
     {id: 2, nameItem: "contact", path: "contact"},
 ]
 

@@ -15,12 +15,12 @@ import ErrorPage from "./routes/ErrorPage.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/framermotionpractice/",
     element: <App />,
     errorElement: <ErrorPage />,
     children: [
       {
-        path: "/",
+        path: "/framermotionpractice/",
         element: <Home />
       },
       {
